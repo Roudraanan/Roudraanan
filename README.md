@@ -108,3 +108,17 @@ const roudra = {
 
 
 ---
+
+
+
+
+
+---
+
+<p align="center">
+  <i>“Code = Happiness.” — thanks for stopping by! ⭐ a repo if you like it.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0e75b6,100:0f172a&height=110&section=footer" alt="footer" />
+</p>
