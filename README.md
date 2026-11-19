@@ -38,7 +38,7 @@ const roudra = {
 - 🤖 Automating real business workflows with **AI agents & LLM integrations**
 - 👨‍🏫 Mentoring developers in the **Full stack** for 2+ years
 - 🎨 Design work lives on [Behance]
-- 📫 Reach me at **[thealamindev@gmail.com](mailto:roudeaanan@gmail.com)**
+- 📫 Reach me at **[roudraanan@gmail.com](mailto:roudeaanan@gmail.com)**
 
 ---
 
