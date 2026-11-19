@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Roudraanan?tab=followers"><img src="https://img.shields.io/github/followers/thealamindev?label=Followers&style=flat-square&color=22d3ee" alt="followers" /></a>
-  <a href="https://github.com/Roudraanan?tab=repositories"><img src="https://img.shields.io/badge/Repositories-98-0e75b6?style=flat-square&logo=github" alt="repos" /></a>
+  <a href="https://github.com/Roudraanan?tab=followers"><img src="https://img.shields.io/github/followers/Roudraanan?label=Followers&style=flat-square&color=22d3ee" alt="followers" /></a>
+  <a href="https://github.com/Roudraanan?tab=repositories"><img src="https://img.shields.io/badge/Repositories-21-0e75b6?style=flat-square&logo=github" alt="repos" /></a>
 </p>
 
 ---
