@@ -23,14 +23,14 @@
 ## 🧑‍💻 About Me
 
 ```js
-const alamin = {
-  role:        "Full-Stack MERN & AI Automation Developer",
-  experience:  "8+ years — mentoring MERN stack developers",
+const roudra = {
+  role:        "Full-Stack Developer",
+  experience:  "2+ years — mentoring MERN stack developers",
   location:    "Dhaka, Bangladesh 🇧🇩",
-  currentWork: ["Multi-tenant e-commerce SaaS (Next.js + Postgres)", "AI automation workflows"],
-  askMeAbout:  ["React", "Next.js", "Node.js", "MongoDB", "Laravel", "WordPress"],
+  currentWork: ["Multi-tenant e-commerce SaaS (Next.js + Postgres)",
+  askMeAbout:  ["React", "Next.js", "Node.js", "MongoDB", "WordPress"],
   studying:    "Business Administration @ University of the People",
-  hobbies:     ["Ethical hacking 🛡️", "Travel ✈️", "Photography 📸"],
+  hobbies:     ["Gameing", "Travel ✈️", "Photography 📸"],
   motto:       "Code = Happiness",
 };
 ```
