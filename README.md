@@ -37,9 +37,9 @@ const alamin = {
 
 - 🔭 Currently building **a multi-tenant e-commerce platform** with Next.js, PostgreSQL & a self-hosted VPS
 - 🤖 Automating real business workflows with **AI agents & LLM integrations**
-- 👨‍🏫 Mentoring developers in the **MERN stack** for 8+ years
-- 🎨 Design work lives on [Behance](https://www.behance.net/alamin_dev)
-- 📫 Reach me at **[thealamindev@gmail.com](mailto:thealamindev@gmail.com)**
+- 👨‍🏫 Mentoring developers in the **Full stack** for 2+ years
+- 🎨 Design work lives on [Behance]
+- 📫 Reach me at **[thealamindev@gmail.com](mailto:roudeaanan@gmail.com)**
 
 ---
 
