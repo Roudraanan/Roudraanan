@@ -29,7 +29,7 @@ const roudra = {
   currentWork: ["Multi-tenant e-commerce SaaS (Next.js + Postgres)",
   askMeAbout:  ["React", "Next.js", "Node.js", "MongoDB", "WordPress"],
   studying:    "Business Administration @ University of the People",
-  hobbies:     ["Gameing", "Travel ✈️", "Photography 📸"],
+  hobbies:     ["Gameing 🎮", "Travel ✈️", "Photography 📸"],
   motto:       "Code = Happiness",
 };
 ```
