@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e75b6,100:22d3ee&height=120&section=header" alt="header" />
 </p>
 
-![DenjiHead](https://www.facebook.com/photo/?fbid=1923577895167088&set=a.136774793847416)
-
 <h1 align="center">Hi 👋, I'm Roudra Anan</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
